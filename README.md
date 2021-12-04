@@ -1,6 +1,6 @@
 # App filmes
 
-Apicativo desenvolvido com React Native utilizando o Expo e consumindo uma api de filmes com o axios para estudo.
+Aplicativo desenvolvido com React Native utilizando o Expo e consumindo uma api de filmes com o axios para estudo.
 
 <p align="center">
 	<img src="./src/filmes.gif/" title="Visualização do projeto final" />
